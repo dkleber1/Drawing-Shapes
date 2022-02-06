@@ -1,6 +1,6 @@
 // Author: Dana Kleber
 // File Name: main.cs
-// Project Name: pass2
+// Project Name: Drawing Shapes
 // Creation Date: Oct. 25, 2020
 // Modified Date: Nov. 1, 2020
 // Description: This program is built to allow a user to add, view, delete, and modify shapes 
